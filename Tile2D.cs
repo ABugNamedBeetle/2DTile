@@ -8,7 +8,7 @@ using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
 using BugTools.OpenGl;
 
-namespace WindowsFormsApplication16
+namespace Application
 {
     public class Tile2D
     {
